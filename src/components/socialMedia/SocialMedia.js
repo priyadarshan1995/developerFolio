@@ -62,6 +62,14 @@ export default function socialMedia() {
       :
       null}
 
+      {socialMediaLinks.quora ?
+      <a href={socialMediaLinks.quora} className="icon-button quora" target="_blank">
+        <i className="fab fa-quora"></i>
+        <span></span>
+      </a>
+      :
+      null}
+
     </div>
   );
 }
