@@ -23,7 +23,8 @@ const socialMediaLinks = {
   facebook: "https://www.facebook.com/darshan.mohanty14",
   instagram: "https://www.instagram.com/priyadarshan1",
   twitter: "https://www.twitter.com/pmdeinvincible",
-  quora: "https://www.quora.com/profile/Priyadarshan-Mohanty-1"
+  quora: "https://www.quora.com/profile/Priyadarshan-Mohanty-1",
+  whatsapp: "https://api.whatsapp.com/send?phone=918333832730"
   // Instagram and Twitter are also supported in the links!
 };
 

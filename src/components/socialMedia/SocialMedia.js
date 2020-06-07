@@ -14,6 +14,7 @@ export default function socialMedia() {
       :
       null}
 
+
       {socialMediaLinks.linkedin ?
       <a href={socialMediaLinks.linkedin} className="icon-button linkedin" target="_blank">
         <i className="fab fa-linkedin-in"></i>
@@ -70,6 +71,15 @@ export default function socialMedia() {
       </a>
       :
       null}
+
+      {socialMediaLinks.whatsapp ?
+      <a href={socialMediaLinks.whatsapp} className="icon-button whatsapp" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+        <span></span>
+      </a>
+      :
+      null}
+
 
     </div>
   );
