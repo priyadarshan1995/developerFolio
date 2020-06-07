@@ -124,7 +124,7 @@ const workExperiences = {
       role: "Data Engineer",  
       company: "LoginRadius",
       companylogo: require("./assets/images/lrLogo.png"),
-      date: "Sept 2019 – Present",
+      date: "Oct 2019 – Present",
       desc: "LoginRadius CIAM is an enterprise customer identity and access management solution that's simplified, customisable, and secure.",
       descBullets: [
         "Working on building the Backend Data Platform of the Product using MongoDB as a primary database.",
