@@ -31,7 +31,7 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "What I Do?",
   subTitle: "DATA ENGINEER WHO WANTS TO EXPLORE THE FIELDS OF ML & AI",
   skills: [
     emoji("⚡ Develop highly scalable and robust Data pipelines"),
@@ -135,7 +135,7 @@ const workExperiences = {
     {
       role: "Project Engineer",   
       company: "Wipro Limited",
-      companylogo: require("./assets/images/wiproLogo.png"),
+      companylogo: require("./assets/images/WipLog.png"),
       date: "Aug 2017 – Sept 2019",
       desc: "Wipro Limited is a leading global information technology, consulting and business process services company.",
       descBullets: [
