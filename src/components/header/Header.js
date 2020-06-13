@@ -28,6 +28,9 @@ function Header() {
             </li>
           }
           <li>
+            <a href="#education">Education</a>
+          </li>
+          <li>
             <a href="#opensource">Open Source</a>
           </li>
           <li>
