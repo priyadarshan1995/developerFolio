@@ -1,20 +1,20 @@
 import React from "react";
-import "./WorkExperience.css";
+import "./Education.css";
 import ExperienceCard from "../../components/experienceCard/ExperienceCard";
-import { workExperiences } from "../../portfolio";
+import { educationColleges } from "../../portfolio";
 import { Fade } from "react-reveal";
 
 
 export default function WorkExperience() {
-    if(workExperiences.viewExperiences){
+    if(educationColleges.viewExperiences){
         return (
             <div id="experience">
                 <Fade bottom duration={1000} distance="20px">
                 <div className="experience-container" id="workExperience">
                     <div>
-                        <h1 className="experience-heading">Work Experience</h1>
+                        <h1 className="experience-heading">Education</h1>
                         <div className="experience-cards-div">
-                        {workExperiences.experience.map((card) => {
+                        {educationColleges.experience.map((card) => {
                             return (
                                 <ExperienceCard
                                     cardInfo={{

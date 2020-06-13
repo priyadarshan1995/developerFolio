@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20cbb393605002a002c3007c393ebe03",
+    "revision": "4e6e72953d22e63ff34abe18bbc56ae4",
     "url": "/index.html"
   },
   {
-    "revision": "cba127e0b5926d1349dc",
-    "url": "/static/css/main.af87bd13.chunk.css"
+    "revision": "dd9cf993cc4f223235d7",
+    "url": "/static/css/main.6bcb02fa.chunk.css"
   },
   {
-    "revision": "00fb9b013696b9122c35",
-    "url": "/static/js/2.c71c6a00.chunk.js"
+    "revision": "083be32df7c3843d9444",
+    "url": "/static/js/2.b80ebfba.chunk.js"
   },
   {
-    "revision": "cba127e0b5926d1349dc",
-    "url": "/static/js/main.892ec198.chunk.js"
+    "revision": "dd9cf993cc4f223235d7",
+    "url": "/static/js/main.e614405a.chunk.js"
   },
   {
     "revision": "a7c8a5e3d76757e7f408",
@@ -28,6 +28,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "f6dd217b0388088bddcf3509c2714c84",
+    "url": "/static/media/WipLog.f6dd217b.png"
+  },
+  {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
     "url": "/static/media/contactMail.d6d4086f.png"
   },
@@ -40,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo.25bf045c.svg"
   },
   {
-    "revision": "631c46201615396dabb4d6fcc3f584a8",
-    "url": "/static/media/lrLogo.631c4620.png"
+    "revision": "eb0ffbc778cec02619a32e7f2c36b891",
+    "url": "/static/media/lrLogo.eb0ffbc7.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -54,9 +58,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
     "url": "/static/media/talksCardBack.0288c5ec.svg"
-  },
-  {
-    "revision": "9bf2803764d320abdf93c860c9a6a253",
-    "url": "/static/media/wiproLogo.9bf28037.png"
   }
 ]);

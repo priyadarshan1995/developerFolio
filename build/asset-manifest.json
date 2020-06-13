@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.af87bd13.chunk.css",
-    "main.js": "/static/js/main.892ec198.chunk.js",
-    "main.js.map": "/static/js/main.892ec198.chunk.js.map",
+    "main.css": "/static/css/main.6bcb02fa.chunk.css",
+    "main.js": "/static/js/main.e614405a.chunk.js",
+    "main.js.map": "/static/js/main.e614405a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1ea1c649.js",
     "runtime-main.js.map": "/static/js/runtime-main.1ea1c649.js.map",
-    "static/js/2.c71c6a00.chunk.js": "/static/js/2.c71c6a00.chunk.js",
-    "static/js/2.c71c6a00.chunk.js.map": "/static/js/2.c71c6a00.chunk.js.map",
+    "static/js/2.b80ebfba.chunk.js": "/static/js/2.b80ebfba.chunk.js",
+    "static/js/2.b80ebfba.chunk.js.map": "/static/js/2.b80ebfba.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.51b1d0b2e5725da84c4e27567f3bdcd9.js": "/precache-manifest.51b1d0b2e5725da84c4e27567f3bdcd9.js",
+    "precache-manifest.e8c4a287934737e8b223075516a30961.js": "/precache-manifest.e8c4a287934737e8b223075516a30961.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.af87bd13.chunk.css.map": "/static/css/main.af87bd13.chunk.css.map",
+    "static/css/main.6bcb02fa.chunk.css.map": "/static/css/main.6bcb02fa.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/WipLog.png": "/static/media/WipLog.f6dd217b.png",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
-    "static/media/lrLogo.png": "/static/media/lrLogo.631c4620.png",
+    "static/media/lrLogo.png": "/static/media/lrLogo.eb0ffbc7.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg",
-    "static/media/wiproLogo.png": "/static/media/wiproLogo.9bf28037.png"
+    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1ea1c649.js",
-    "static/js/2.c71c6a00.chunk.js",
-    "static/css/main.af87bd13.chunk.css",
-    "static/js/main.892ec198.chunk.js"
+    "static/js/2.b80ebfba.chunk.js",
+    "static/css/main.6bcb02fa.chunk.css",
+    "static/js/main.e614405a.chunk.js"
   ]
 }

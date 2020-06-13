@@ -64,7 +64,8 @@ https://fontawesome.com/icons?d=gallery */
       //fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "mongodb",
+      skillName: "MongoDB",
+      fontAwesomeClassname: "simple-icons:mongodb",
       //fontAwesomeClassname: "fab fa-node"
     },
     {
@@ -149,6 +150,50 @@ const workExperiences = {
   ]
 };
 
+// Your top 3 work experiences
+
+const educationColleges = {
+  viewExperiences: true, //Set it to true to show workExperiences Section
+  experience: [
+    {
+      role: "B.Tech in Electronics and Communications Engineering and M.Tech in VLSI Design & Embedded System",  
+      company: "NIT Rourkela",
+      companylogo: require("./assets/images/nitrLogo.png"),
+      date: "Jul 2016 – May 2017",
+      desc: "CGPA: 8.39",
+      // descBullets: [
+      //   "Working on building the Backend Data Platform of the Product using MongoDB as a primary database.",
+      //   "Enabling Near Real Time replication of data between MongoDB and Elastic Search (micro batching) using Kafka and Go.",
+      //   "Performing filtering and aggregation of data in Elastic Search to provide Customer Analytics for visualization."
+      // ]
+    },
+    {
+      role: "Intermediate in Science",  
+      company: "Sri Chaitanya Jr College, Visakhapatnam",
+      companylogo: require("./assets/images/hsLogo.png"),
+      date: "Jun 2010 – Mar 2012",
+      desc: "94%",
+      // descBullets: [
+      //   "Working on building the Backend Data Platform of the Product using MongoDB as a primary database.",
+      //   "Enabling Near Real Time replication of data between MongoDB and Elastic Search (micro batching) using Kafka and Go.",
+      //   "Performing filtering and aggregation of data in Elastic Search to provide Customer Analytics for visualization."
+      // ]
+    },
+    {
+      role: "Matriculation, ICSE",  
+      company: "Siva Sivani Public School,Visakhapatnam",
+     companylogo: require("./assets/images/schoolLogo.png"),
+      date: "Jun 2009 – Mar 2010",
+      desc: "92.14%",
+      // descBullets: [
+      //   "Working on building the Backend Data Platform of the Product using MongoDB as a primary database.",
+      //   "Enabling Near Real Time replication of data between MongoDB and Elastic Search (micro batching) using Kafka and Go.",
+      //   "Performing filtering and aggregation of data in Elastic Search to provide Customer Analytics for visualization."
+      // ]
+    }
+  ]
+};
+
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
@@ -185,7 +230,7 @@ const achievementSection = {
 
   achivementsCards: [
     // {
-    //   title: "Google Code-In Finalist",
+    //   title: "Spark and Python for Big Data with PySpark",
     //   subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
     //   image:
     //     "https://1.bp.blogspot.com/-Ig-v1tDXZt4/XDODmZvWp1I/AAAAAAAAB0A/KtbFdBPFVQw2O15FekkIR0Yg8MUp--rngCLcBGAs/s1600/GCI%2B-%2BVertical%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png",
@@ -277,4 +322,4 @@ const twitterDetails = {
   userName : "pmdeinvincible"//Replace "twitter" with your twitter username without @
   
 };
-export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
+export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, educationColleges, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
