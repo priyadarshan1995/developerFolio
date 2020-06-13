@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e6e72953d22e63ff34abe18bbc56ae4",
+    "revision": "cdd7c65760815020064a3526cfebab81",
     "url": "/index.html"
   },
   {
-    "revision": "dd9cf993cc4f223235d7",
-    "url": "/static/css/main.6bcb02fa.chunk.css"
+    "revision": "3d621158679ed79bae14",
+    "url": "/static/css/main.dbda3f29.chunk.css"
   },
   {
-    "revision": "083be32df7c3843d9444",
-    "url": "/static/js/2.b80ebfba.chunk.js"
+    "revision": "0b20650fa55b5e9740c3",
+    "url": "/static/js/2.7c9a930e.chunk.js"
   },
   {
-    "revision": "dd9cf993cc4f223235d7",
-    "url": "/static/js/main.e614405a.chunk.js"
+    "revision": "3d621158679ed79bae14",
+    "url": "/static/js/main.1dec5661.chunk.js"
   },
   {
     "revision": "a7c8a5e3d76757e7f408",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "f6dd217b0388088bddcf3509c2714c84",
-    "url": "/static/media/WipLog.f6dd217b.png"
+    "revision": "5d660d1891beb3ef9a13b2fee28636f1",
+    "url": "/static/media/WipLog.5d660d18.png"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
+  },
+  {
+    "revision": "680f31c68b002f2b5dd1a47c8d28f8ce",
+    "url": "/static/media/hsLogo.680f31c6.png"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "8c46c3b312e90a802966752e8443afdb",
+    "url": "/static/media/schoolLogo.8c46c3b3.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",

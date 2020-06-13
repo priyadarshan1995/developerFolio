@@ -65,8 +65,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "MongoDB",
-      fontAwesomeClassname: "simple-icons:mongodb",
-      //fontAwesomeClassname: "fab fa-node"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "elasticsearch",
@@ -156,7 +155,7 @@ const educationColleges = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "B.Tech in Electronics and Communications Engineering and M.Tech in VLSI Design & Embedded System",  
+      role: "B.Tech in Electronics and Communications Engineering and M.Tech in VLSI Design & Embedded Systems",  
       company: "NIT Rourkela",
       companylogo: require("./assets/images/nitrLogo.png"),
       date: "Jul 2012 – May 2017",
@@ -305,7 +304,7 @@ const podcastSection = {
   subtitle: "I LOVE TO LISTEN TO MUSIC",
 
   // Please Provide with Your Podcast embeded Link
-  podcast: ["http://open.spotify.com/user/Darshan.mohanty14"]
+  podcast: ["https://open.spotify.com/user/21qu3ddmjxjex7v73manrmqey"]
 };
 
 const contactInfo = {
