@@ -159,7 +159,7 @@ const educationColleges = {
       role: "B.Tech in Electronics and Communications Engineering and M.Tech in VLSI Design & Embedded System",  
       company: "NIT Rourkela",
       companylogo: require("./assets/images/nitrLogo.png"),
-      date: "Jul 2016 – May 2017",
+      date: "Jul 2012 – May 2017",
       desc: "CGPA: 8.39",
       // descBullets: [
       //   "Working on building the Backend Data Platform of the Product using MongoDB as a primary database.",
