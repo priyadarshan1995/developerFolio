@@ -266,11 +266,11 @@ const blogSection = {
   subtitle: "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
 
   blogs: [
-    // {
-    //   url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-    //   title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-    //   description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    // },
+    {
+      url: "https://www.loginradius.com/engineering/blog/stream-processing-using-kafka/",
+      title: "Introduction to Stream Processing using Kafka Streams",
+      description: "Kafka Streams is a Java library developed to help applications that do stream processing built on Kafka."
+    },
     // {
     //   url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
     //   title: "Why REACT is The Best?",
@@ -281,31 +281,31 @@ const blogSection = {
 
 // Talks Sections
 
-const talkSection = {
-  title: "TALKS",
-  subtitle: emoji("I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"),
+// const talkSection = {
+//   title: "TALKS",
+//   subtitle: emoji("I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"),
 
-   talks: [
-  //   {
-  //     title: "Build Actions For Google Assistant",
-  //     subtitle: "Codelab at GDG DevFest Karachi 2019",
-  //     slides_url: "https://bit.ly/saadpasta-slides",
-  //     event_url: "https://www.facebook.com/events/2339906106275053/",
-  //     image:
-  //       "https://scontent.fkhi6-1.fna.fbcdn.net/v/t1.0-9/76714032_1730516240415559_1293494289556307968_o.jpg?_nc_cat=103&_nc_ohc=s5f81rdZd6wAQmqUa52YQBA21MjVOy7e-HN9jI7MspRDC-v5ahEouyInQ&_nc_ht=scontent.fkhi6-1.fna&oh=c29141a9a0de7ff2011a8191f5475a78&oe=5E83127C"
-  //   }
-  ]
-};
+//    talks: [
+//   //   {
+//   //     title: "Build Actions For Google Assistant",
+//   //     subtitle: "Codelab at GDG DevFest Karachi 2019",
+//   //     slides_url: "https://bit.ly/saadpasta-slides",
+//   //     event_url: "https://www.facebook.com/events/2339906106275053/",
+//   //     image:
+//   //       "https://scontent.fkhi6-1.fna.fbcdn.net/v/t1.0-9/76714032_1730516240415559_1293494289556307968_o.jpg?_nc_cat=103&_nc_ohc=s5f81rdZd6wAQmqUa52YQBA21MjVOy7e-HN9jI7MspRDC-v5ahEouyInQ&_nc_ht=scontent.fkhi6-1.fna&oh=c29141a9a0de7ff2011a8191f5475a78&oe=5E83127C"
+//   //   }
+//   ]
+// };
 
 // Podcast Section
 
-const podcastSection = {
-  title: emoji("Spotify 🎙️"),
-  subtitle: "I LOVE TO LISTEN TO MUSIC",
+// const podcastSection = {
+//   title: emoji("Spotify 🎙️"),
+//   subtitle: "I LOVE TO LISTEN TO MUSIC",
 
-  // Please Provide with Your Podcast embeded Link
-  podcast: ["https://open.spotify.com/user/21qu3ddmjxjex7v73manrmqey"]
-};
+//   // Please Provide with Your Podcast embeded Link
+//   podcast: [/*"https://open.spotify.com/user/21qu3ddmjxjex7v73manrmqey"*/]
+// };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
@@ -321,4 +321,4 @@ const twitterDetails = {
   userName : "pmdeinvincible"//Replace "twitter" with your twitter username without @
   
 };
-export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, educationColleges, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
+export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, educationColleges, openSource, bigProjects, achievementSection, blogSection,contactInfo , twitterDetails};

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Talks.css";
 import TalkCard from "../../components/talkCard/TalkCard";
-import { talkSection } from "../../portfolio";
+//import { talkSection } from "../../portfolio";
 import { Fade } from "react-reveal";
 
 export default function Talks() {
@@ -9,10 +9,10 @@ export default function Talks() {
     <Fade bottom duration={1000} distance="20px">
     <div className="main" id="talks">
       <div className="talk-header">
-        <h1 className="talk-header-title">{talkSection.title}</h1>
-        <p className="subTitle talk-header-subtitle">{talkSection.subtitle}</p>
+        {/* <h1 className="talk-header-title">{talkSection.title}</h1>
+        <p className="subTitle talk-header-subtitle">{talkSection.subtitle}</p> */}
         <div className="talk-cards-div">
-          {talkSection.talks.map(talk => {
+          {/* {talkSection.talks.map(talk => {
             return (
               <TalkCard
                 talkDetails={{
@@ -24,7 +24,7 @@ export default function Talks() {
                 }}
               />
             );
-          })}
+          })} */}
         </div>
       </div>
     </div>
